@@ -1,0 +1,47 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln.DotSettings.user
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Build artifacts
+Build/
+Dist/
+Artifacts/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# C++ caches
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.pch
+*.tlog
+*.sdf
+*.opensdf
+
+# Optional: keep generated project files out if you regenerate often
+# (Comment these out if you want to version .sln)
+# *.sln
+# *.vcxproj
+# *.vcxproj.filters
+# *.vcxproj.user
